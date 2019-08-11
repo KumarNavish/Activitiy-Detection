@@ -1,0 +1,114 @@
+Dist: Less than Median-Cluster1
+ProperCut: 0 | Overcut: 38578 | Undercut: 6427
+
+Dist: More than Median-Cluster1
+ProperCut: 0 | Overcut: 18227 | Undercut: 3248
+
+Dist: Less than Median-Cluster2
+ProperCut: 0 | Overcut: 20413 | Undercut: 409
+
+Dist: More than Median-Cluster2
+ProperCut: 0 | Overcut: 1306 | Undercut: 52
+
+Dist: Less than Median-Cluster3
+ProperCut: 0 | Overcut: 35941 | Undercut: 8706
+
+Dist: More than Median-Cluster3
+ProperCut: 0 | Overcut: 16504 | Undercut: 5027
+
+Dist: Less than Median-Cluster4
+ProperCut: 0 | Overcut: 2630 | Undercut: 236
+
+Dist: More than Median-Cluster4
+ProperCut: 0 | Overcut: 890 | Undercut: 15
+
+Dist: Less than Median-Cluster5
+ProperCut: 0 | Overcut: 24270 | Undercut: 8643
+
+Dist: More than Median-Cluster5
+ProperCut: 0 | Overcut: 411 | Undercut: 107
+
+Dist: Less than Median-Cluster6
+ProperCut: 0 | Overcut: 7263 | Undercut: 373
+
+Dist: More than Median-Cluster6
+ProperCut: 0 | Overcut: 2532 | Undercut: 149
+
+Dist: Less than Median-Cluster7
+ProperCut: 0 | Overcut: 2797 | Undercut: 537
+
+Dist: More than Median-Cluster7
+ProperCut: 0 | Overcut: 1309 | Undercut: 202
+
+Dist: Less than Median-Cluster8
+ProperCut: 0 | Overcut: 36212 | Undercut: 4439
+
+Dist: More than Median-Cluster8
+ProperCut: 0 | Overcut: 9803 | Undercut: 1131
+
+Dist: Less than Median-Cluster9
+ProperCut: 0 | Overcut: 27930 | Undercut: 3781
+
+Dist: More than Median-Cluster9
+ProperCut: 0 | Overcut: 3172 | Undercut: 534
+
+Dist: Less than Median-Cluster10
+ProperCut: 0 | Overcut: 8320 | Undercut: 789
+
+Dist: More than Median-Cluster10
+ProperCut: 0 | Overcut: 921 | Undercut: 58
+
+Dist: Less than Median-Cluster11
+ProperCut: 0 | Overcut: 5874 | Undercut: 215
+
+Dist: More than Median-Cluster11
+ProperCut: 0 | Overcut: 653 | Undercut: 5
+
+Dist: Less than Median-Cluster12
+ProperCut: 0 | Overcut: 33726 | Undercut: 18493
+
+Dist: More than Median-Cluster12
+ProperCut: 0 | Overcut: 3593 | Undercut: 1420
+
+Dist: Less than Median-Cluster13
+ProperCut: 0 | Overcut: 13797 | Undercut: 4239
+
+Dist: More than Median-Cluster13
+ProperCut: 0 | Overcut: 4470 | Undercut: 1383
+
+Dist: Less than Median-Cluster14
+ProperCut: 0 | Overcut: 646 | Undercut: 172
+
+Dist: More than Median-Cluster14
+ProperCut: 0 | Overcut: 414 | Undercut: 141
+
+Dist: Less than Median-Cluster15
+ProperCut: 0 | Overcut: 1810 | Undercut: 183
+
+Dist: More than Median-Cluster15
+ProperCut: 0 | Overcut: 532 | Undercut: 33
+
+Dist: Less than Median-Cluster16
+ProperCut: 0 | Overcut: 2228 | Undercut: 118
+
+Dist: More than Median-Cluster16
+ProperCut: 0 | Overcut: 310 | Undercut: 8
+
+Dist: Less than Median-Cluster17
+ProperCut: 0 | Overcut: 633 | Undercut: 34
+
+Dist: More than Median-Cluster17
+ProperCut: 0 | Overcut: 427 | Undercut: 13
+
+Dist: Less than Median-Cluster18
+ProperCut: 0 | Overcut: 31186 | Undercut: 3081
+
+Dist: More than Median-Cluster18
+ProperCut: 0 | Overcut: 1576 | Undercut: 252
+
+Dist: Less than Median-Cluster19
+ProperCut: 0 | Overcut: 603 | Undercut: 54
+
+Dist: More than Median-Cluster19
+ProperCut: 0 | Overcut: 78 | Undercut: 0
+
